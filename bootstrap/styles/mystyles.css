@@ -1,0 +1,41 @@
+
+.redyeah{
+    color: lightblue;
+}
+
+.centerit{
+    text-align: center;
+}
+.cursive{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.whiteout{
+    color: aliceblue;
+}
+.borders{
+    border-color: lightsalmon;
+}
+
+.italic{
+    font-style: oblique;
+}
+
+.left{
+    text-align: left;
+}
+
+.wrapper{
+    margin-top: 2cm;
+    margin-bottom: 20cm;
+    width: 100px;
+    height: 2px;
+}
+
+.loop{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    height: 60%;
+    width: 100%;
+}
+
